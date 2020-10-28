@@ -1,0 +1,23 @@
+{
+  "name": "shimport-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader that replaces import() with shimport() https://www.npmjs.com/package/shimport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charleseriley/shimport-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charleseriley/shimport-loader/issues"
+  },
+  "homepage": "https://github.com/charleseriley/shimport-loader#readme",
+  "peerDependencies": {
+    "webpack": "^5.2.0"
+  }
+}
